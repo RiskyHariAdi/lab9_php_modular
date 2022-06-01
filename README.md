@@ -130,5 +130,3 @@ dan ini adalah codingan gambar nya
 2. Tampilan about page pada browser yang menggunakan modular header dan footer
 ![foto](foto/9.png)
 
-
-# SEKIAN DAN TERIMAKASIH
