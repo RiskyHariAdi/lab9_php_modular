@@ -119,16 +119,16 @@ code about
 ```
 dan ini adalah codingan gambar nya
 
-![img](img/7.png)
+![foto](foto/7.png)
 
 # 7.TAMPILAN DI BROWSER NYA
 
 1. Tampilan home page pada browser yang menggunakan modular header dan footer
 
-![img](img/8.png)
+![foto](foto/8.png)
 
 2. Tampilan about page pada browser yang menggunakan modular header dan footer
-![img](img/9.png)
+![foto](foto/9.png)
 
 
 # SEKIAN DAN TERIMAKASIH
